@@ -1,6 +1,6 @@
 ---
 name: "♻️ Refactor_issue_template"
-about: 버그 관련 이슈 템플릿입니다.
+about: 리팩토링 관련 이슈 템플릿입니다.
 title: "♻️ Refactor : "
 labels: "♻️ Refactor"
 assignees: ''
