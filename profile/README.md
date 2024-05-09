@@ -64,7 +64,7 @@
 
 ## 6. 🛠️ 아키텍처
 
-*추가 예정*
+<img width="960" alt="AWS-Architecture-Icons-Deck_For-Light-BG_02062024" src="https://github.com/Shining-Jicheon-Stars/.github/assets/125263770/a1234b21-7038-48bc-a4a4-fa68e13738c0">
 
 <br/>
 
