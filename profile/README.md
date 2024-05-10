@@ -4,10 +4,9 @@
 
 <img width="1920" alt="tripillow_thumbnail" src="https://github.com/Jhoon00/yjg-ts-react-frontend/blob/develop/src/assets/schoolImg/school.jpg">
 
-モバイルアプリケーションで学生たちに学生寮サービスを簡単かつ迅速に提供します。 <br/>
-日常的なニーズをより簡単に解決できるサービスであります。 <br/>
-ウェブでは学生寮の管理業務を行います。 <br/>
-効率的に学生寮を管理できるように提供しています。 <br/>
+### 永進専門大学グロバールキャンパス学生寮管理システム
+
+学生には学生寮サービスを簡単かつ迅速に提供し、管理者には学生寮の管理機能を提供するサービスです。 <br/>
 <br/>
 
 ## 2. チーム紹介
