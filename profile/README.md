@@ -22,24 +22,41 @@
 
 
 
-## 4. 開発環境
+## 4. 使用技術
 
-### 기술스택
+### 開発環境(IDE、管理など)
+![VSCode](https://img.shields.io/badge/VSCODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Github](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)
+![npm](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
-<p  align="left">
+### 言語
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Dart](https://img.shields.io/badge/DART-0175C2?style=for-the-badge&logo=Dart&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
 
-<img  src="https://img.shields.io/badge/react-2D333B?style=for-the-badge&logo=react&logoColor=61DAFB">
-<img  src="https://img.shields.io/badge/Recoil-2D333B?style=fo-the-badge&logo=react&logoColor=3578E5">
-<img  src="https://img.shields.io/badge/Styled component-2D333B?style=for-the-badge&logo=styledcomponents&logoColor=#DB7093">
+### ライブラリー
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white)
+![ReactQuery](https://img.shields.io/badge/REACTQUERY-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
+![Axios](https://img.shields.io/badge/AXIOS-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
+![ReactHook](https://img.shields.io/badge/REACTHOOKFORM-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white)
+![Recoil](https://img.shields.io/badge/Recoil-3578E5?style=for-the-badge&logo=Recoil&logoColor=white)
 
-<img  src="https://img.shields.io/badge/javascript-2D333B?style=for-the-badge&logo=javascript&logoColor=#F7DF1E">
-<img  src="https://img.shields.io/badge/prettier-2D333B?style=for-the-badge&logo=prettier&logoColor=#F7B93E">
+### デザイン
+![TailWind](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=TailwindCSS&logoColor=white)
+![StyledComponents](https://img.shields.io/badge/STYLEDCOMPONENTS-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white)
 
-</p>
+### フレームワーク
+![Laravel](https://img.shields.io/badge/laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Flutter](https://img.shields.io/badge/FLUTTER-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
-- 보다 간편한 컴포넌트 상태 관리와 접근을 위해 Recoil을 사용했습니다.
-- Styled Components를 사용해서 컴포넌트 내에서 스타일을 캡슐화하며 모듈성과 재사용성을 높이고 컴포넌트 스타일을 보다 쉽게 ​​관리했습니다.
-- 일관된 코드 스타일과 코드 마찰 감소를 위해 Prettier를 사용했습니다.
+### 協業ツール
+![Figma](https://img.shields.io/badge/FIGMA-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Swagger](https://img.shields.io/badge/SWAGGER-85EA2D?style=for-the-badge&logo=swagger&logoColor=white)
+![Discord](https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+![Slack](https://img.shields.io/badge/SLACK-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+![KakaoTalk](https://img.shields.io/badge/KAKAOTALK-FFCD00?style=for-the-badge&logo=kakaotalk&logoColor=white)
+![Notion](https://img.shields.io/badge/NOTION-000000?style=for-the-badge&logo=notion&logoColor=white)
 
 <br />
 
