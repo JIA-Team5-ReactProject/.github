@@ -2,7 +2,7 @@
 
 ## 1. YJG 概要
 
-<img width="1920" alt="tripillow_thumbnail" src="https://github.com/Jhoon00/yjg-ts-react-frontend/blob/develop/src/assets/schoolImg/school.jpg">
+![YJG_HEADER](https://github.com/Shining-Jicheon-Stars/.github/assets/125263770/8f1b74f7-a938-4ffe-8dd8-2e13f5d8fa51)
 
 永進専門大学グロバールキャンパス寮統合管理サービス「YJG」は、
 
