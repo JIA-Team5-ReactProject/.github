@@ -1,4 +1,4 @@
-# <span id='top'> 🏘 YJG</span>
+# 🏘 YJG
 
 ## 1. YJG 概要
 
@@ -7,6 +7,8 @@
 永進専門大学グロバールキャンパス寮統合管理サービス「YJG」は、
 
 ウェブとモバイルプラットフォームを通じて効率的に寮の管理及び利用することができるサービスです。
+
+開発期間: 24年1月12日 ~ 開発中
 <br/>
 
 ## 2. チーム紹介
@@ -14,12 +16,16 @@
 |**キム・ジョンウォン**|**クォン・ジフン**|**キム・ジフン**|**キム・ヒョン**|**イ・ミンヒョク**|
 | :------------: | :---------: | :--------: | :-------: | :----------: |
 |<img src="https://avatars.githubusercontent.com/u/113046042?v=4" height=180 >|<img src="https://avatars.githubusercontent.com/u/108657822?v=4" height=180 >     |<img src="https://avatars.githubusercontent.com/u/121006991?v=4" height=180 >|<img src="https://avatars.githubusercontent.com/u/125263770?v=4" height=180 >     |<img src="https://avatars.githubusercontent.com/u/108847847?v=4" height=180 >|
-| [🔗 GitHub](https://github.com/jeongwonkimo3o)<br/> 														 ![Frontend](https://img.shields.io/badge/-Frontend-green) 													 ![Team%20Leader](https://img.shields.io/badge/-Team%20leader-blue) 												| [🔗 GitHub](https://github.com/jihun1844)<br/> 														 ![Frontend](https://img.shields.io/badge/-Frontend-green) <br/>													| [🔗 GitHub](https://github.com/Jhoon00)<br/> 															 ![Frontend](https://img.shields.io/badge/-Frontend-green) <br/> 												| [🔗 GitHub](https://github.com/Hyn2)<br/> 															 ![Frontend](https://img.shields.io/badge/-Frontend-green) 													| [🔗 GitHub](https://github.com/lmh0615)<br/> 															 ![Frontend](https://img.shields.io/badge/-Frontend-green) |
+| ![Team%20Leader](https://img.shields.io/badge/-Team%20leader-000000) ![Mobile](https://img.shields.io/badge/Mobile-02A9FF) | ![Backend](https://img.shields.io/badge/Backend-FF2D20) | ![Web](https://img.shields.io/badge/Web-FF7328) | ![Backend](https://img.shields.io/badge/Backend-FF2D20) | ![Mobile](https://img.shields.io/badge/Mobile-02A9FF)
+| <a href="https://github.com/jeongwonkimo3o"><img src="https://github.com/Shining-Jicheon-Stars/.github/assets/125263770/a4d73565-382f-4ab5-baa8-aad7d90e9db7" height=25 /></a> | <a href="https://github.com/jihun1844"><img src="https://github.com/Shining-Jicheon-Stars/.github/assets/125263770/a4d73565-382f-4ab5-baa8-aad7d90e9db7" height=25 /></a> | <a href="https://github.com/Jhoon00"><img src="https://github.com/Shining-Jicheon-Stars/.github/assets/125263770/a4d73565-382f-4ab5-baa8-aad7d90e9db7" height=25 /></a> | <a href="https://github.com/Hyn2"><img src="https://github.com/Shining-Jicheon-Stars/.github/assets/125263770/a4d73565-382f-4ab5-baa8-aad7d90e9db7" height=25 /></a> | <a href="https://github.com/lmh0615"><img src="https://github.com/Shining-Jicheon-Stars/.github/assets/125263770/a4d73565-382f-4ab5-baa8-aad7d90e9db7" height=25 /></a> | 
 
 <p align="right"><a href="#top">(🔼 Top)</a></p>
 
-## 3. 開発期間 (24年1月12日 ~ 開発中)
+## 3. ブランチ戦略
 
+🚀 main : デプロイブランチです。<br/>
+🚀 develop : 機能の開発ブランチで、 PRをマージするには１人の承認が要ります。<br/>
+🚀 release/* : デプロイを待機しているブランチです。
 
 
 ## 4. 使用技術
@@ -60,35 +66,23 @@
 
 <br />
 
-### Swagger
-
-[Swagger](http://ec2-13-124-102-253.ap-northeast-2.compute.amazonaws.com/api/documentation)
-
-팀원간 API 문서 공유를 위해 Swagger를 이용하였습니다.
-
-<br />
-
-### 브랜치 전략
-
-🚀 main : デプロイブランチです。<br/>
-🚀 develop : 機能の開発ブランチで、 PRをマージするには１人の承認が要ります。<br/>
-🚀 release/* : デプロイを待機しているブランチです。
-
-<br />
-
 <p align="right"><a href="#top">(🔼 Top)</a></p>
 
-## 5. ERD
-
-*추가 예정*
-
-## 6. 🎨 UI
+## 5. 🎨 UI
 
 [Figma](https://www.figma.com/file/wwXyuex6f6U7rWL50ltDmS/%EC%BA%A1%EC%8A%A4%ED%86%A4?type=design&node-id=1027%3A2116&mode=design&t=0OaOL240XuARIWZm-1)
 
 *추가 예정*
 
 <br/>
+
+<p align="right"><a href="#top">(🔼 Top)</a></p>
+
+## 6. ERD
+
+![ERD](https://github.com/Shining-Jicheon-Stars/yjg-laravel-backend/assets/125263770/46472a8b-1519-4f82-a60d-cd83095d0f31)
+
+<br />
 
 <p align="right"><a href="#top">(🔼 Top)</a></p>
 
@@ -99,6 +93,14 @@
 <br/>
 
 <p align="right"><a href="#top">(🔼 Top)</a></p>
+
+## 8. API文書
+
+チームメート間API文書の共有のために、Swaggerを利用して共有しました。
+
+[Swagger 바로가기](http://ec2-13-124-102-253.ap-northeast-2.compute.amazonaws.com/api/documentation)
+
+
 
 ## 8. 각 페이지 기능
 
