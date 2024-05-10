@@ -42,7 +42,15 @@
 - Styled Components를 사용해서 컴포넌트 내에서 스타일을 캡슐화하며 모듈성과 재사용성을 높이고 컴포넌트 스타일을 보다 쉽게 ​​관리했습니다.
 - 일관된 코드 스타일과 코드 마찰 감소를 위해 Prettier를 사용했습니다.
 
-<br/>
+<br />
+
+### Swagger
+
+[Swagger](http://ec2-13-124-102-253.ap-northeast-2.compute.amazonaws.com/api/documentation)
+
+팀원간 API 문서 공유를 위해 Swagger를 이용하였습니다.
+
+<br />
 
 ### 브랜치 전략
 
@@ -54,7 +62,13 @@
 
 <p align="right"><a href="#top">(🔼 Top)</a></p>
 
-## 5. 🎨 UI
+## 5. ERD
+
+*추가 예정*
+
+## 6. 🎨 UI
+
+[Figma](https://www.figma.com/file/wwXyuex6f6U7rWL50ltDmS/%EC%BA%A1%EC%8A%A4%ED%86%A4?type=design&node-id=1027%3A2116&mode=design&t=0OaOL240XuARIWZm-1)
 
 *추가 예정*
 
@@ -62,7 +76,7 @@
 
 <p align="right"><a href="#top">(🔼 Top)</a></p>
 
-## 6. 🛠️ 아키텍처
+## 7. 🛠️ 아키텍처
 
 <img width="960" alt="AWS-Architecture-Icons-Deck_For-Light-BG_02062024" src="https://github.com/Shining-Jicheon-Stars/.github/assets/125263770/a1234b21-7038-48bc-a4a4-fa68e13738c0">
 
@@ -70,7 +84,7 @@
 
 <p align="right"><a href="#top">(🔼 Top)</a></p>
 
-## 7. 각 페이지 기능
+## 8. 각 페이지 기능
 
 |                                                스플래쉬                                                 |                                                로그인                                                 |                                                회원가입                                                |
 | :-----------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------: |
@@ -103,7 +117,7 @@
 
 <br />
 
-## 8. 커밋 컨벤션
+## 9. 커밋 컨벤션
 
 ```
 - Feat: 새로운 기능 추가
