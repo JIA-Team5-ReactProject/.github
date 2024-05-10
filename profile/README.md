@@ -4,9 +4,9 @@
 
 <img width="1920" alt="tripillow_thumbnail" src="https://github.com/Jhoon00/yjg-ts-react-frontend/blob/develop/src/assets/schoolImg/school.jpg">
 
-### 永進専門大学グロバールキャンパス学生寮管理システム
+永進専門大学グロバールキャンパス寮統合管理サービス「YJG」は、
 
-学生には学生寮サービスを簡単かつ迅速に提供し、管理者には学生寮の管理機能を提供するサービスです。 <br/>
+ウェブとモバイルプラットフォームを通じて効率的に寮の管理及び利用することができるサービスです。
 <br/>
 
 ## 2. チーム紹介
