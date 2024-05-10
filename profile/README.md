@@ -77,7 +77,7 @@
 
 ## 7. 🛠️ 아키텍처
 
-<img width="960" alt="AWS-Architecture-Icons-Deck_For-Light-BG_02062024" src="https://github.com/Shining-Jicheon-Stars/.github/assets/125263770/a1234b21-7038-48bc-a4a4-fa68e13738c0">
+![YJG_Architecture](https://github.com/Shining-Jicheon-Stars/yjg-laravel-backend/assets/125263770/9144ef6f-ed65-48f7-9e7c-071fb1510f6a)
 
 <br/>
 
