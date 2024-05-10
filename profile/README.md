@@ -131,8 +131,8 @@
 - Chore: 패키지 매니저 수정, 그 외 기타 수정 ex) .gitignore
 - Rename: 파일 또는 폴더 명을 수정하거나 옮기는 작업만인 경우
 - Remove: 파일을 삭제하는 작업만 수행한 경우
-- !BREAKING CHANGE: 커다란 API 변경의 경우
 - !HOTFIX: 급하게 치명적인 버그를 고쳐야 하는 경우
+- Migration: 마이그레이션 파일 추가 및 변경
 ```
 
 <br/>
