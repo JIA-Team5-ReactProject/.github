@@ -16,7 +16,7 @@
 |**キム・ジョンウォン**|**クォン・ジフン**|**キム・ジフン**|**キム・ヒョン**|**イ・ミンヒョク**|
 | :------------: | :---------: | :--------: | :-------: | :----------: |
 |<img src="https://avatars.githubusercontent.com/u/113046042?v=4" height=180 >|<img src="https://avatars.githubusercontent.com/u/108657822?v=4" height=180 >     |<img src="https://avatars.githubusercontent.com/u/121006991?v=4" height=180 >|<img src="https://avatars.githubusercontent.com/u/125263770?v=4" height=180 >     |<img src="https://avatars.githubusercontent.com/u/108847847?v=4" height=180 >|
-| ![Team%20Leader](https://img.shields.io/badge/-Team%20leader-000000) ![Mobile](https://img.shields.io/badge/Mobile-02A9FF) | ![Backend](https://img.shields.io/badge/Backend-FF2D20) | ![Web](https://img.shields.io/badge/Web-FF7328) | ![Backend](https://img.shields.io/badge/Backend-FF2D20) | ![Mobile](https://img.shields.io/badge/Mobile-02A9FF)
+| ![Team%20Leader](https://img.shields.io/badge/-Team%20leader-000000) ![Mobile](https://img.shields.io/badge/Frontend(M)-02A9FF) | ![Backend](https://img.shields.io/badge/Backend-FF2D20) | ![Web](https://img.shields.io/badge/Frontend(W)-FF7328) | ![Backend](https://img.shields.io/badge/Backend-FF2D20) | ![Mobile](https://img.shields.io/badge/Frontend(M)-02A9FF)
 | <a href="https://github.com/jeongwonkimo3o"><img src="https://github.com/Shining-Jicheon-Stars/.github/assets/125263770/a4d73565-382f-4ab5-baa8-aad7d90e9db7" height=25 /></a> | <a href="https://github.com/jihun1844"><img src="https://github.com/Shining-Jicheon-Stars/.github/assets/125263770/a4d73565-382f-4ab5-baa8-aad7d90e9db7" height=25 /></a> | <a href="https://github.com/Jhoon00"><img src="https://github.com/Shining-Jicheon-Stars/.github/assets/125263770/a4d73565-382f-4ab5-baa8-aad7d90e9db7" height=25 /></a> | <a href="https://github.com/Hyn2"><img src="https://github.com/Shining-Jicheon-Stars/.github/assets/125263770/a4d73565-382f-4ab5-baa8-aad7d90e9db7" height=25 /></a> | <a href="https://github.com/lmh0615"><img src="https://github.com/Shining-Jicheon-Stars/.github/assets/125263770/a4d73565-382f-4ab5-baa8-aad7d90e9db7" height=25 /></a> | 
 
 <p align="right"><a href="#top">(🔼 Top)</a></p>
@@ -103,6 +103,9 @@
 
 
 ## 8. 各ページごとの機能
+
+![프로젝트 구성도](https://github.com/Shining-Jicheon-Stars/.github/assets/125263770/a87a9753-5ae1-484e-bf40-b3b49ab253bd)
+
 
 |                                                스플래쉬                                                 |                                                로그인                                                 |                                                회원가입                                                |
 | :-----------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------: |
